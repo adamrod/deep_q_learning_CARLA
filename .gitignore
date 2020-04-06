@@ -1,0 +1,14 @@
+# vscode settings
+.vscode
+
+# python cache directory
+__pycache__
+
+# saved variables
+*.pickle
+
+# results directory
+output
+
+# python virtual environment
+venv
